@@ -2778,8 +2778,8 @@ a {
   }
 }
 .cid-vvkXndzS33 {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 7rem;
+  padding-bottom: 1rem;
   background-color: #ffffff;
 }
 .cid-vvkXndzS33 .mbr-fallback-image.disabled {
@@ -2867,4 +2867,7 @@ a {
 }
 .cid-vvkXndzS33 .mbr-text {
   color: #000000;
+}
+.cid-vvkXndzS33 .mbr-section-title {
+  text-align: justify;
 }
